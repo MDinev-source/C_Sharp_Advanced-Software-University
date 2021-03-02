@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvcqVsTQmXEiEwkvCIMVJMrTJqmgcKxURY7Ek9BSAnUovX1UV271Qg8Lj/oLIX59/Pk7BTT6Qgk89OgnhfdjCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milko Qni Emi PC\\OneDrive\\Desktop\\C_Sharp_Advanced-Software-University-master\\Exam 28 June 2020\\02. Parking\\Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milko Qni Emi PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Milko Qni Emi PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Milko Qni Emi PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Milko Qni Emi PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

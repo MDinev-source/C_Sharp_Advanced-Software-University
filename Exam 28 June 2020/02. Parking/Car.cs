@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Parking
+﻿namespace Parking
 {
+
    public class Car
     {
         public Car(string manufacturer, string model, int year)

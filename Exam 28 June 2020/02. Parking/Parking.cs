@@ -1,10 +1,8 @@
-﻿using System;
+﻿namespace Parking
+{
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
-namespace Parking
-{
     public class Parking
     {
         private List<Car> data;
