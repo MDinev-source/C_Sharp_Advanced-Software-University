@@ -1,4 +1,4 @@
-﻿namespace Snake
+﻿namespace _02._Snake
 {
     using System;
     class Program

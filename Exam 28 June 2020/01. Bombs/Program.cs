@@ -1,4 +1,4 @@
-﻿namespace _01_Bombs
+﻿namespace _01._Bombs
 {
     using System;
 
