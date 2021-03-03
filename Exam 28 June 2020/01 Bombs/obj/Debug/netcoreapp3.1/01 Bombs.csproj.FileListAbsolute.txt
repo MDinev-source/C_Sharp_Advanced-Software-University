@@ -1,0 +1,12 @@
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\bin\Debug\netcoreapp3.1\01 Bombs.exe
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\bin\Debug\netcoreapp3.1\01 Bombs.deps.json
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\bin\Debug\netcoreapp3.1\01 Bombs.runtimeconfig.json
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\bin\Debug\netcoreapp3.1\01 Bombs.runtimeconfig.dev.json
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\bin\Debug\netcoreapp3.1\01 Bombs.dll
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\bin\Debug\netcoreapp3.1\01 Bombs.pdb
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\obj\Debug\netcoreapp3.1\01 Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\obj\Debug\netcoreapp3.1\01 Bombs.AssemblyInfoInputs.cache
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\obj\Debug\netcoreapp3.1\01 Bombs.AssemblyInfo.cs
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\obj\Debug\netcoreapp3.1\01 Bombs.dll
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\obj\Debug\netcoreapp3.1\01 Bombs.pdb
+C:\Users\Milko Qni Emi PC\source\repos\Exams - C# Advanced\Advanced Exam - 28 June 2020 - Current\01 Bombs\obj\Debug\netcoreapp3.1\01 Bombs.genruntimeconfig.cache
